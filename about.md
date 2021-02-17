@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am an undergraduate biotechnology major interested in pursing biomedical research and design post-grad. I am mainly interested in autoimmune diseases and how they effect the body, as well as the idea of medical marijuana research.
+Hi! My names Hannah and I'm an undergraduate biotechnology major interested in pursing biomedical research and design post-grad. I am mainly interested in autoimmune diseases and how they effect the body, as well as the idea of medical marijuana research. Science is my bag, baby!
 
 
 
